@@ -1,0 +1,1 @@
+import{j as s}from"./index-7f15f8bd.js";import{S as t}from"./Select-8f43a6a6.js";import{s as r}from"./index.esm-0c5f9a2d.js";const a=r(o=>s.jsx(t,{sx:{backgroundColor:"#fff"},...o}))();export{a as C};
